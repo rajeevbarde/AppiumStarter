@@ -1,0 +1,1 @@
+Starter solution for Appium with browser testing using Java

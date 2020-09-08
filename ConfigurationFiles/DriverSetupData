@@ -1,0 +1,8 @@
+DeviceName     = Android Device
+AutomationName = uiautomator2
+PlatformName   = 
+DeviceVersion  =
+CommandTimeOut = 10
+AppLocation    = /AppStore/General-Store.apk
+ConnectionUrl  = http://127.0.0.1:4723/wd/hub
+ApplictionUrl  = https://www.sangam.com/ 
